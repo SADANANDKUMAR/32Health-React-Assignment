@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.SearchNavbar {
+  width: 18rem !important;
+}
+
+.detailtext {
+  font-size: 14px;
+}
